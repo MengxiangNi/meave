@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("master");
         System.out.println("hot-fire");
         System.out.println("hot-fire");
+        System.out.println("pull test");
     }
 }
