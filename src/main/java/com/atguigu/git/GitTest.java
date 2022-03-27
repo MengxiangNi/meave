@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("fg");
         System.out.println("master");
         System.out.println("hot-fire");
+        System.out.println("hot-fire");
     }
 }
